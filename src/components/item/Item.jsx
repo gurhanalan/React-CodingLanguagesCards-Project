@@ -9,14 +9,18 @@ function Item({ card, key, className }) {
             className={className}
             onClick={() => setshowPic(!showPic)}
         >
-            <img src={card.img} alt="card-img" />
-            <h3>{card.name}</h3>
-
-            <ul>
-                {card.options.map((option, index) => (
-                    <li key={index}>{option}</li>
-                ))}
-            </ul>
+            {showPic ? (
+                <>
+                    <img src={card.img} alt="card-img" />
+                    <h3>{card.name}</h3>
+                </>
+            ) : (
+                <ul>
+                    {card.options.map((option, index) => (
+                        <li key={index}>{option}</li>
+                    ))}
+                </ul>
+            )}
         </div>
     );
 }
