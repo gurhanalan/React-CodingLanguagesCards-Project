@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/React-CodingLanguagesCards-Project/static/css/main.2229e868.chunk.css",
+    "main.js": "/React-CodingLanguagesCards-Project/static/js/main.fe590c84.chunk.js",
+    "main.js.map": "/React-CodingLanguagesCards-Project/static/js/main.fe590c84.chunk.js.map",
+    "runtime-main.js": "/React-CodingLanguagesCards-Project/static/js/runtime-main.d2da4ec8.js",
+    "runtime-main.js.map": "/React-CodingLanguagesCards-Project/static/js/runtime-main.d2da4ec8.js.map",
+    "static/js/2.288eea5c.chunk.js": "/React-CodingLanguagesCards-Project/static/js/2.288eea5c.chunk.js",
+    "static/js/2.288eea5c.chunk.js.map": "/React-CodingLanguagesCards-Project/static/js/2.288eea5c.chunk.js.map",
+    "static/js/3.a06d994d.chunk.js": "/React-CodingLanguagesCards-Project/static/js/3.a06d994d.chunk.js",
+    "static/js/3.a06d994d.chunk.js.map": "/React-CodingLanguagesCards-Project/static/js/3.a06d994d.chunk.js.map",
+    "index.html": "/React-CodingLanguagesCards-Project/index.html",
+    "static/css/main.2229e868.chunk.css.map": "/React-CodingLanguagesCards-Project/static/css/main.2229e868.chunk.css.map",
+    "static/js/2.288eea5c.chunk.js.LICENSE.txt": "/React-CodingLanguagesCards-Project/static/js/2.288eea5c.chunk.js.LICENSE.txt",
+    "static/media/c++.c0a0d2fd.png": "/React-CodingLanguagesCards-Project/static/media/c++.c0a0d2fd.png",
+    "static/media/css.616d011c.png": "/React-CodingLanguagesCards-Project/static/media/css.616d011c.png",
+    "static/media/go.a0b3b49a.png": "/React-CodingLanguagesCards-Project/static/media/go.a0b3b49a.png",
+    "static/media/html.e72a5da2.png": "/React-CodingLanguagesCards-Project/static/media/html.e72a5da2.png",
+    "static/media/java.a507ef79.png": "/React-CodingLanguagesCards-Project/static/media/java.a507ef79.png",
+    "static/media/javascript.7f875163.png": "/React-CodingLanguagesCards-Project/static/media/javascript.7f875163.png",
+    "static/media/php.c767c571.png": "/React-CodingLanguagesCards-Project/static/media/php.c767c571.png",
+    "static/media/python.40f1d1b1.png": "/React-CodingLanguagesCards-Project/static/media/python.40f1d1b1.png",
+    "static/media/react.7b78f5c3.svg": "/React-CodingLanguagesCards-Project/static/media/react.7b78f5c3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2da4ec8.js",
+    "static/js/2.288eea5c.chunk.js",
+    "static/css/main.2229e868.chunk.css",
+    "static/js/main.fe590c84.chunk.js"
+  ]
+}
